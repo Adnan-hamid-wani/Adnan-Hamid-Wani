@@ -40,7 +40,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Adnan-Hamid-Wani/Adnan-Hamid-Wani/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Adnan-Hamid-Wani/Adnan-Hamid-Wani/output/snake.svg" alt="Snake animation" >
 
 ###
 
