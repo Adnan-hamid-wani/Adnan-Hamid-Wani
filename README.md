@@ -19,7 +19,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg "https://www.linkedin.com/in/adnan-hamid-wani-283847204/"" height="40" alt="javascript logo"  /><a href ></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg href="https://www.linkedin.com/in/adnan-hamid-wani-283847204/"" height="40" alt="javascript logo"  /><a href ></a>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
