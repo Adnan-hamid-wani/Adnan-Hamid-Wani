@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ UI/UX<br>📚 I'm currently learning Full Stack Development<br>🎯 Goals: Design, UI/UX <br>🎲 Fun fact: Eat Sleep Code</p>
+<p align="left">✨ UI/UX<br>📚 I'm currently learning Full Stack Development<br>🎯 Goals: MERN Developer , UI/UX  <br>🎲 Fun fact: Eat Sleep Code</p>
 
 ###
 
