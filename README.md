@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Adnan Hamid Wani and I'm a Web Developer, from Kashmir</p>
+<p align="left">My name is Adnan Hamid Wani and I'm a Web Developer</p>
 
 ###
 
